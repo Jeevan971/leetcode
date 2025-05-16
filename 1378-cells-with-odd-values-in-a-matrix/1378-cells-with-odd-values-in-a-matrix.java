@@ -3,7 +3,6 @@ public class Solution {
         int[] rowIncrements = new int[m];
         int[] colIncrements = new int[n];
 
-        // Count increments per row and column
         for (int[] index : indices) {
             int r = index[0];
             int c = index[1];
@@ -22,8 +21,6 @@ public class Solution {
             if (cInc % 2 == 1) oddColCount++;
         }
         int evenColCount = n - oddColCount;
-
-        // Cells with odd values = (oddRowCount * evenColCount) + (evenRowCount * oddColCount)
         return oddRowCount * evenColCount + evenRowCount * oddColCount;
     }
 }
