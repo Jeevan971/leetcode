@@ -1,11 +1,11 @@
 public class Solution {
-    public static int diagonalSum(int[][] mat) {  // ← static added here
+    public static int diagonalSum(int[][] mat) {  
         int n = mat.length;
         int sum = 0;
 
         for (int i = 0; i < n; i++) {
-            sum += mat[i][i];              // Primary diagonal
-            sum += mat[i][n - 1 - i];      // Secondary diagonal
+            sum += mat[i][i];              
+            sum += mat[i][n - 1 - i];      
         }
 
         if (n % 2 == 1) {
@@ -21,7 +21,7 @@ public class Solution {
             {4, 5, 6},
             {7, 8, 9}
         };
-        System.out.println("Diagonal sum = " + diagonalSum(mat1)); // Output: 25
+        System.out.println("Diagonal sum = " + diagonalSum(mat1)); 
 
         int[][] mat2 = {
             {1, 1, 1, 1},
@@ -29,11 +29,11 @@ public class Solution {
             {1, 1, 1, 1},
             {1, 1, 1, 1}
         };
-        System.out.println("Diagonal sum = " + diagonalSum(mat2)); // Output: 8
+        System.out.println("Diagonal sum = " + diagonalSum(mat2)); 
 
         int[][] mat3 = {
             {5}
         };
-        System.out.println("Diagonal sum = " + diagonalSum(mat3)); // Output: 5
+        System.out.println("Diagonal sum = " + diagonalSum(mat3)); 
     }
 }
