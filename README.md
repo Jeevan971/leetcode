@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Jeevan971/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Jeevan971/leetcode/tree/master/0070-climbing-stairs) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jeevan971/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Jeevan971/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Jeevan971/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Jeevan971/leetcode/tree/master/0088-merge-sorted-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jeevan971/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Jeevan971/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1677-matrix-diagonal-sum](https://github.com/Jeevan971/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Matrix
 |  |
@@ -92,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jeevan971/leetcode/tree/master/0088-merge-sorted-array) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Jeevan971/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Jeevan971/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Jeevan971/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
