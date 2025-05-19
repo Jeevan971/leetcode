@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jeevan971/leetcode/tree/master/0067-add-binary) |
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Jeevan971/leetcode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/Jeevan971/leetcode/tree/master/0812-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeevan971/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Jeevan971/leetcode/tree/master/0812-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
