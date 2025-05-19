@@ -120,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Jeevan971/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/Jeevan971/leetcode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
