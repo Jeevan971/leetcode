@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Jeevan971/leetcode/tree/master/0067-add-binary) |
+| [0899-binary-gap](https://github.com/Jeevan971/leetcode/tree/master/0899-binary-gap) |
 ## Simulation
 |  |
 | ------- |
