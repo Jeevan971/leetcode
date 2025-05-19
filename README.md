@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/Jeevan971/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Jeevan971/leetcode/tree/master/0575-distribute-candies) |
+| [0777-toeplitz-matrix](https://github.com/Jeevan971/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Jeevan971/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Jeevan971/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jeevan971/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Jeevan971/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/Jeevan971/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Jeevan971/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Jeevan971/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Jeevan971/leetcode/tree/master/1677-matrix-diagonal-sum) |
