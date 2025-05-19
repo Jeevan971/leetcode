@@ -131,4 +131,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/Jeevan971/leetcode/tree/master/0577-employee-bonus) |
+## Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Jeevan971/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Jeevan971/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Jeevan971/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Jeevan971/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Jeevan971/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
