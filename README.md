@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Jeevan971/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Jeevan971/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Jeevan971/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Jeevan971/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Jeevan971/leetcode/tree/master/0088-merge-sorted-array) |
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/Jeevan971/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Jeevan971/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Jeevan971/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Jeevan971/leetcode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/Jeevan971/leetcode/tree/master/0777-toeplitz-matrix) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jeevan971/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Jeevan971/leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Jeevan971/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Jeevan971/leetcode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/Jeevan971/leetcode/tree/master/0782-jewels-and-stones) |
