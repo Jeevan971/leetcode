@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Jeevan971/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jeevan971/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Jeevan971/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Jeevan971/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Jeevan971/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Jeevan971/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Jeevan971/leetcode/tree/master/0069-sqrtx) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Jeevan971/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Jeevan971/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Jeevan971/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Jeevan971/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Jeevan971/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Jeevan971/leetcode/tree/master/0067-add-binary) |
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Jeevan971/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Jeevan971/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Jeevan971/leetcode/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Jeevan971/leetcode/tree/master/0566-reshape-the-matrix) |
