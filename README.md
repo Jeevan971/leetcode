@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeevan971/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Jeevan971/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Jeevan971/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Jeevan971/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Jeevan971/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Jeevan971/leetcode/tree/master/0067-add-binary) |
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
