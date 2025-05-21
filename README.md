@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Jeevan971/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Jeevan971/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Jeevan971/leetcode/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/Jeevan971/leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Jeevan971/leetcode/tree/master/0067-add-binary) |
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Jeevan971/leetcode/tree/master/0782-jewels-and-stones) |
