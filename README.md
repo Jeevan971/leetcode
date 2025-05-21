@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Jeevan971/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Jeevan971/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Jeevan971/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Jeevan971/leetcode/tree/master/0076-minimum-window-substring) |
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Jeevan971/leetcode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/Jeevan971/leetcode/tree/master/0782-jewels-and-stones) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Jeevan971/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Jeevan971/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Jeevan971/leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Jeevan971/leetcode/tree/master/0076-minimum-window-substring) |
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Jeevan971/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Jeevan971/leetcode/tree/master/0812-rotate-string) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jeevan971/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Jeevan971/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Jeevan971/leetcode/tree/master/0076-minimum-window-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
