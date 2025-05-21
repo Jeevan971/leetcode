@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Jeevan971/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Jeevan971/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Jeevan971/leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Jeevan971/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Jeevan971/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Jeevan971/leetcode/tree/master/0088-merge-sorted-array) |
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Jeevan971/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Jeevan971/leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Jeevan971/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Jeevan971/leetcode/tree/master/0068-text-justification) |
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Jeevan971/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Jeevan971/leetcode/tree/master/0812-rotate-string) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Jeevan971/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Jeevan971/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Jeevan971/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Jeevan971/leetcode/tree/master/0068-text-justification) |
 | [0566-reshape-the-matrix](https://github.com/Jeevan971/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Jeevan971/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Jeevan971/leetcode/tree/master/0898-transpose-matrix) |
