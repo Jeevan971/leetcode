@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Jeevan971/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Jeevan971/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Jeevan971/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Jeevan971/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Jeevan971/leetcode/tree/master/0088-merge-sorted-array) |
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/Jeevan971/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Jeevan971/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Jeevan971/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Jeevan971/leetcode/tree/master/0078-subsets) |
 | [0861-flipping-an-image](https://github.com/Jeevan971/leetcode/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/Jeevan971/leetcode/tree/master/0899-binary-gap) |
 ## Simulation
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Jeevan971/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Jeevan971/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Jeevan971/leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Jeevan971/leetcode/tree/master/0078-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
