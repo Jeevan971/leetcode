@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jeevan971/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Jeevan971/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Jeevan971/leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Jeevan971/leetcode/tree/master/0072-edit-distance) |
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Jeevan971/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Jeevan971/leetcode/tree/master/0812-rotate-string) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Jeevan971/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Jeevan971/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Jeevan971/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Jeevan971/leetcode/tree/master/0072-edit-distance) |
 ## Memoization
 |  |
 | ------- |
