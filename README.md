@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Jeevan971/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Jeevan971/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Jeevan971/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Jeevan971/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jeevan971/leetcode/tree/master/0088-merge-sorted-array) |
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/Jeevan971/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeevan971/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Jeevan971/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Jeevan971/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Jeevan971/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jeevan971/leetcode/tree/master/0088-merge-sorted-array) |
 | [0861-flipping-an-image](https://github.com/Jeevan971/leetcode/tree/master/0861-flipping-an-image) |
 ## String Matching
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Jeevan971/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Jeevan971/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Jeevan971/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Jeevan971/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jeevan971/leetcode/tree/master/0088-merge-sorted-array) |
 ## Design
 |  |
