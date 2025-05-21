@@ -1,7 +1,15 @@
 public class Solution {
     public int lengthOfLastWord(String s) {
-        s = s.trim();  // Remove trailing and leading spaces
-        int lastSpaceIndex = s.lastIndexOf(' ');
-        return s.length() - lastSpaceIndex - 1;
+        // Trim the string to remove trailing spaces
+        s = s.trim();
+        
+        // Split the string by spaces
+        String[] words = s.split(" ");
+        
+        // The last word is at the last index
+        String lastWord = words[words.length - 1];
+        
+        // Return the length of the last word
+        return lastWord.length();
     }
 }
