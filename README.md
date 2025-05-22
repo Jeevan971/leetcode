@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Jeevan971/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Jeevan971/leetcode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Jeevan971/leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Jeevan971/leetcode/tree/master/0091-decode-ways) |
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Jeevan971/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Jeevan971/leetcode/tree/master/0812-rotate-string) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jeevan971/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Jeevan971/leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Jeevan971/leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Jeevan971/leetcode/tree/master/0091-decode-ways) |
 ## Memoization
 |  |
 | ------- |
