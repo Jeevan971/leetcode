@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jeevan971/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Jeevan971/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Jeevan971/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Jeevan971/leetcode/tree/master/0089-gray-code) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jeevan971/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Jeevan971/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Recursion
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Jeevan971/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Jeevan971/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Jeevan971/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Jeevan971/leetcode/tree/master/0089-gray-code) |
 | [0861-flipping-an-image](https://github.com/Jeevan971/leetcode/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/Jeevan971/leetcode/tree/master/0899-binary-gap) |
 ## Simulation
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Jeevan971/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Jeevan971/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Jeevan971/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Jeevan971/leetcode/tree/master/0089-gray-code) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
