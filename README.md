@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Jeevan971/leetcode/tree/master/0089-gray-code) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jeevan971/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Jeevan971/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2050-count-good-numbers](https://github.com/Jeevan971/leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Jeevan971/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Jeevan971/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Jeevan971/leetcode/tree/master/0060-permutation-sequence) |
+| [2050-count-good-numbers](https://github.com/Jeevan971/leetcode/tree/master/2050-count-good-numbers) |
 ## Array
 |  |
 | ------- |
