@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jeevan971/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Jeevan971/leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Jeevan971/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/Jeevan971/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Jeevan971/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0838-design-linked-list](https://github.com/Jeevan971/leetcode/tree/master/0838-design-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Jeevan971/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
@@ -289,10 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Jeevan971/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Jeevan971/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Jeevan971/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Jeevan971/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
@@ -353,4 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jeevan971/leetcode/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Jeevan971/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Jeevan971/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
