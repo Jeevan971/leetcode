@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Jeevan971/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Jeevan971/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jeevan971/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0835-linked-list-components](https://github.com/Jeevan971/leetcode/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/Jeevan971/leetcode/tree/master/0838-design-linked-list) |
 ## Math
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Jeevan971/leetcode/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Jeevan971/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0777-toeplitz-matrix](https://github.com/Jeevan971/leetcode/tree/master/0777-toeplitz-matrix) |
+| [0835-linked-list-components](https://github.com/Jeevan971/leetcode/tree/master/0835-linked-list-components) |
 | [0861-flipping-an-image](https://github.com/Jeevan971/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Jeevan971/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jeevan971/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Jeevan971/leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Jeevan971/leetcode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/Jeevan971/leetcode/tree/master/0782-jewels-and-stones) |
+| [0835-linked-list-components](https://github.com/Jeevan971/leetcode/tree/master/0835-linked-list-components) |
 ## String
 |  |
 | ------- |
