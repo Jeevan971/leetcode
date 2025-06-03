@@ -9,12 +9,11 @@ public class Solution {
             ListNode first = current.next;
             ListNode second = current.next.next;
 
-            // Swapping nodes
+            
             first.next = second.next;
             second.next = first;
             current.next = second;
 
-            // Move to the next pair
             current = first;
         }
 
