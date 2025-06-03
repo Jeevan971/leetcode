@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Jeevan971/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Jeevan971/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jeevan971/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0838-design-linked-list](https://github.com/Jeevan971/leetcode/tree/master/0838-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0838-design-linked-list](https://github.com/Jeevan971/leetcode/tree/master/0838-design-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Jeevan971/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
