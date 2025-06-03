@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Jeevan971/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0835-linked-list-components](https://github.com/Jeevan971/leetcode/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/Jeevan971/leetcode/tree/master/0838-design-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Jeevan971/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Jeevan971/leetcode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/Jeevan971/leetcode/tree/master/0782-jewels-and-stones) |
 | [0835-linked-list-components](https://github.com/Jeevan971/leetcode/tree/master/0835-linked-list-components) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Jeevan971/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
