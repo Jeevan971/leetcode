@@ -8,10 +8,10 @@ class ListNode {
         val = x;
     }
 
-    // Deserialize method to convert string to linked list
+    
     public static ListNode deserialize(String data) {
-        if (data == null || data.length() <= 2) return null; // "[]"
-        data = data.substring(1, data.length() - 1); // remove brackets
+        if (data == null || data.length() <= 2) return null; 
+        data = data.substring(1, data.length() - 1); 
         String[] parts = data.split(",");
 
         ListNode dummy = new ListNode(0);
@@ -23,7 +23,7 @@ class ListNode {
         return dummy.next;
     }
 
-    // For debugging: Print the list from this node
+    
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
@@ -42,17 +42,17 @@ public class Solution {
         ListNode slow = head;
         ListNode fast = head;
 
-        // Move slow by 1 and fast by 2
+        
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
 
-        return slow; // this is the middle node
+        return slow; 
     }
 
     public static void main(String[] args) {
-        // Example usage
+        
         String input = "[1,2,3,4,5]";
         ListNode head = ListNode.deserialize(input);
         Solution sol = new Solution();
